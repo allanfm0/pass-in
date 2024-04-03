@@ -8,7 +8,7 @@
 		<version>3.2.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.allanflm</groupId>
+	<groupId>rocketseat.com</groupId>
 	<artifactId>pass-in</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>pass-in</name>
